@@ -1,0 +1,207 @@
+- sinh viên có thể học lại bao nhiêu môn học?
++ tất cả các môn
+- một môn học có bao nhiêu giảng viên?
++ ít nhất 1 giảng viên
+- cần bao nhiêu điểm để qua môn?
++ trung bình môn học phải trên 5.
+- cần bao nhiêu điểm quá trình để có thể qua môn?
++ phải làm sao để điểm trung bình môn trên 5 là qua môn.
+- môn học bắt buộc là môn học như thế nào?
++ là các môn chính yếu của ngành bắt buộc phải hoàn tất đạt yêu cầu để xét tốt nghiệp.
+- môn học tự chọn là môn học như thế nào?
++ là môn chứa những nội dung cần thiết cho định hướng nghề nghiệp có thể lựa chọn đăng ký học.
+- môn học thay thế là môn học như thế nào?
++ là các môn được phép tích lũy thay cho một môn hay một nhóm môn trong ctđt của ngành đào tạo.
+- môn học tiên quyết là môn như thế nào?
++ là sau khi hoàn thành môn học đó mới được học một môn khác.
+- môn học trước là môn học như thế nào?
++ là sau khi học (có thể chưa đạt) môn đó mới có thể học một môn khác.
+- môn học song hành là môn học như thế nào?
++ là sau khi đăng ký môn học đó thì có thể đăng ký cùng lúc với một môn học khác trong một học kỳ.
++ giữa môn học và tiếng anh có ràng buộc gì không ?
+-	một số môn học bắt buộc phải đạt được level tiếng anh theo quy định
++ một môn học có bao nhiêu hình thức thi ?
+-	3
++ sinh viên nghỉ tối đa bao nhiêu buổi/một môn?
+-	không quá 20 số tiết
+-môn bơi có phải là môn học bắt buộc hay không ?
++môn bơi là môn học bắt buộc
+-nếu sinh viên có các bệnh lý mà không thể xuống hồ bơi thì có được miễn học bơi hay không ?
++nếu sinh viên có giấy xác nhận của các bệnh viện thuộc nhà nước rằng sinh viên mắc các bệnh lý không thể xuống hồ bơi thì sinh viên sẽ được miễn học môn bơi nhưng phải học một môn thể chất thay thế trong nhóm môn gdtc 1
+-nếu sinh viên đã biết bơi thì có được miễn học môn bơi hay không ?
++nếu sinh viên đã biết bơi (bơi ếch) thì sinh viên có thể liên hệ văn phòng khoa khoa học thể thao để thầy cô có thể tổ chức kiểm tra để xem xét cho sinh viên miễn học môn bơi, nhưng sinh viên vẫn sẽ phải học một môn thể chất thay thế trong nhóm môn gdtc 1
+-sinh viên có cần phải có chứng chỉ quốc phòng không ?
++có
+-toeic đầu ra của khóa 20 hệ chính quy là bao nhiêu ?
++500
+-toeic đầu ra của khóa 21 hệ chính quy là bao nhiêu ?
++550
+-ielts đầu ra của khóa 20 hệ chính quy là bao nhiêu ?
++5.0
+-ielts đầu ra của khóa 21 hệ chính quy là bao nhiêu ?
++5.5
+-toeic đầu ra của khóa 20 hệ chất lượng cao là bao nhiêu ?
++550
+-toeic đầu ra của khóa 21 hệ chất lượng cao là bao nhiêu ?
++600
+-ielts đầu ra của khóa 20 hệ chất lượng cao là bao nhiêu ?
++5.5
+-ielts đầu ra của khóa 21 hệ chất lượng cao là bao nhiêu ?
++6.0
+-sinh viên được nghĩ học bao nhiêu buổi của một môn học ?
++không quá 20% số buổi
+-sinh viên cần phải có điểm trung bình bao nhiêu để qua môn học?
++5.0
+-sinh viên khoa công nghệ thông tin cần điều kiện nào để có thể học dự án công nghệ thông tin 1?
++điểm rèn luyện trên 50 và số tín chỉ tích lũy trên 90
+-sinh viên cần điều kiện nào để có thể làm luận văn tốt nghiệp?
++điểm trung bình tích lũy trên 7.0 và có chứng chỉ tiếng anh theo quy định
+-sinh viên khoa công nghệ thông tin cần điều kiện gì để có thể học dự án công nghệ thông tin 2?
++đã đi kiến tập tại doanh nghiệp và hoàn thành dự án công nghệ thông tin 1 và có chứng chỉ tiếng anh theo quy định
+-nếu nghỉ quá số buổi quy định của môn học thì sẽ như thế nào ?
++sẽ bị đình chỉ thi cuối kỳ hoặc có thể được xem xét nếu có lý do chính đáng và có minh chứng cụ thể
+-sinh viên bị rớt môn thì điểm được cập nhật như thế nào sau khi học lại môn học đó?
++sinh viên sẽ được lấy điểm cao nhất trong số lần học lại môn học đó
+-sinh viên bị rớt môn học tự chọn thì sinh viên có cần phải bắt buộc học lại môn đó hay không?
++sinh viên có thể đăng ký học lại môn đó hoặc một môn học khác sao cho đảm bảo đủ tín chỉ theo lộ trình đào tạo
+-sinh viên bị rớt một môn học tự chọn và đăng ký học lại một môn học tự chọn khác thì điểm sẽ được cập nhật như thế nào ?
++sinh viên sẽ được lấy điểm cao nhất trong số môn học tự chọn
+-hủy môn có hoàn lại tiền hay không?
++ không hoàn lại tiền
+-một môn học kéo dài bao lâu?
++ khoảng 2 tiếng 30 phút
+-sinh viên có thể học cải thiện lại các môn không?
++ có thể học lại môn để cải thiện điểm
+-sinh viên có thể tham gia những môn thể thao nào?
++ nhiều môn: bóng đá, cầu lông, bóng rổ, bơi lội
+-nhà trường đào tạo nhưng môn thể thao nào?
++ nhiều môn: bóng đá, cầu lông, bóng rổ, bơi lội,..
+-các loại môn học trong suốt quá trình học bao gồm?
++môn tự chọn, môn bắt buộc, môn đại cương, môn thể chất, môn quốc phòng
+- những môn học nào không có tín chỉ?
++ có tương đối nhiều môn không có tín chỉ, ví dụ như: nhóm môn giáo dục thể chất, nhóm môn giáo dục quốc phòng, nhóm các môn kỹ năng,...
+- muốn đăng ký môn học phải làm thế nào?
++ trước tiên phải đăng ký kê hoạch học tập theo lịch sắp xếp của nhà trường, sau đó mới được đăng ký môn học theo lịch mà nhà trường thông báo.
+- nếu quên đăng ký kế hoạch học tập thì phải làm thế nào?
++ phải chờ đến ngày đăng ký môn học bổ sung theo thông báo của nhà trường.
+- có thể hủy môn học đã đăng ký được không?
++ được, có thể liên hệ ban tư vấn học đường để biết thêm chi tiết.
+-bạn học môn ai chưa?
++mình học rồi.khá là dễ
+-kì sau bạn học bao nhiêu chỉ?
++mình học 20 chỉ.
+-bạn học xong tiếng anh chưa?
++mình chưa.
+-bạn có bằng toeic chưa?
++mình có rồi.
+-ai dạy cậu môn ai thế?
++thầy cường đấy cậu ạ!
+-bạn thích học môn nào nhất?
++tôi thích môn ai,học máy
+-bạn không thích môn nào?
++mình nghĩ là môn bơi
+-môn học đầu tiên bạn học là môn gì?
++phương pháp lập trình.
+-môn anh văn được nghỉ bao nhiêu ca?
++được nghỉ 5 ca
+-môn ai nghỉ mấy buổi thì cấm thi?
++được phép nghỉ 2 buổi.
+-khóa 21 cần bao nhiêu điểm toeic để tốt nghiệp?
++500 điểm toeic.
+-môn học máy có học trên phòng lab không?
++không.
+-môn java có mấy học phần?
++3 học phần.
+-bạn thích môn ai không?
++rất thích.
+-bạn làm bài tập lớn môn ai chưa?
++mình đang làm.
+- điểm tối thiểu để qua môn?
++ 5.0
+- tín chỉ tích luỹ được tính như nào?
++ tính theo môn học mà sinh viên đã đăng ký
+- sinh viên bị điểm f khi nào?
++ rớt môn
+- sinh viên bị điểm m khi nào?
++ qua môn hoặc đã hoàn thành
+- có bao nhiêu hình thức thi của một môn học?
++ 3
+- môn bơi có bắt buộc sinh viên vượt qua không ?
++ có
+- môn học tiên quyết là gì ?
++ là một học cần hoàn thành trước khi đăng kí môn học khác.
+- môn học bắt buộc là gì ?
++ là môn học tất cả sinh viên phải hoàn thành trong chương trình đào tạo.
+- đăng kí môn học ở đâu
++ trên hệ thống thông tin sinh viên, vào mục đăng kí môn học
+- sinh viên phải học đủ mấy môn giáo dục thể chất
++ phải học một môn tự chọn trong nhóm gdtc1, một môn tự chọn trong nhóm gdtc2, bơi
+- chứng chỉ tiếng anh phải đạt được là bao nhiêu
+- trường có dạy môn bóng chuyền không
++ có
+-môn bơi có bắt buộc không ?
++ bắt buộc bạn nhé
+-cột điểm thành phần của khoa cntt trong một môn là gì?
++điểm quá trình 1 10% điểm quá trình 2 20% điểm giữa kì 20% điểm cuối kì 50%
+-các loại môn học trong suốt quá trình học bao gồm?
++môn tự chọn, môn bắt buộc, môn đại cương, môn thể chất, môn quốc phòng
+- điều kiện để xem là hoàn thành môn học?
++ thực hiện đúng đủ các yêu cầu của môn học và giảng viên giảng dạy, tổng điểm của môn học từ 5.0 trở lên sẽ xem là hoàn thành môn học.
+-các loại môn học?
++đại cương và chuyên ngành
+-môn nhập môn AI học những gì?
++ các thuật toán tìm kiếm, machine learning...
+-môn thể chất bắt buộc của trường bạn?
++bơi lội
+- có những loại môn học nào?
++ môn chuyên ngành, môn bắt buộc, môn tự chọn, môn thể chất
+- các hình thức kiểm tra và đánh giá môn học cho sinh viên?
++ điểm quá trình, thi giữa kì, cuối kì, đồ án, bài tập lớn.
+- đăng kí môn học bằng cách nào?
++ xem thông báo thời gian đăng ký  của khoa. đăng nhập hệ thống thông tin sinh viên. vào mục đăng ký môn học theo kế hoạch học tập. chọn môn muốn học. đăng kí.
+- bắt buộc học bơi hay không?
++ có. trừ trường hợp có giấy bác sĩ thì có thể nộp đơn chuyển môn thay thế.
+- một số môn thể chất có thể học ở trường?
++ bóng chuyền, cờ vua, cầu lông, bóng rổ, karate, vovinam,...
+- có bao nhiêu cấp độ môn học
++ bao gồm 5 cấp độ
+-môn bơi có phải là môn học bắt buộc hay không ?
++môn bơi là môn học bắt buộc
+-nếu sinh viên có các bệnh lý mà không thể xuống hồ bơi thì có được miễn học bơi hay không ?
++nếu sinh viên có giấy xác nhận của các bệnh viện thuộc nhà nước rằng sinh viên mắc các bệnh lý không thể xuống hồ bơi thì sinh viên sẽ được miễn học môn bơi nhưng phải học một môn thể chất thay thế trong nhóm môn gdtc 1
+-nếu sinh viên đã biết bơi thì có được miễn học môn bơi hay không ?
++nếu sinh viên đã biết bơi (bơi ếch) thì sinh viên có thể liên hệ văn phòng khoa khoa học thể thao để thầy cô có thể tổ chức kiểm tra để xem xét cho sinh viên miễn học môn bơi, nhưng sinh viên vẫn sẽ phải học một môn thể chất thay thế trong nhóm môn gdtc 1
+-nếu nghỉ quá số buổi quy định của môn học thì sẽ như thế nào ?
++sẽ bị đình chỉ thi cuối kỳ hoặc có thể được xem xét nếu có lý do chính đáng và có minh chứng cụ thể
+-theo em được biết thì chương trình học của trường đại học tôn đức thắng có những môn học được giảng dạy bằng tiếng anh nhưng trình độ tiếng anh của em không được tốt thì em có thể theo học được không ?
++khi thí sinh trúng tuyển nhập học, tdtu sẽ cho sinh viên kiểm tra tiếng anh đầu vào để xếp lớp học tiếng anh phù hợp. ngoài ra, môn tiếng anh là môn được tích hợp trong chương trình đào tạo, đảm bảo sinh viên phải đạt cấp độ tiếng anh nhất định mới có thể học các môn chuyên ngành tương ứng. vì vậy, bạn đừng ngại việc vốn tiếng anh chưa tốt mà không dám đăng ký vào ngành/trường mình yêu thích.
+- môn bắt buộc là môn gì ?
++ là các môn trong chương trình đào tạo chứa đựng những nội dung chính yếu của ngành và chuyên ngành đào tạo àm sinh viên bắt buộc phải hao2n tất đạt yêu cầu để được xét tốt nghiệp .
+- có bao nhiêu loại ràng buộc môn học?
++ tiên quyết, song hành, học trước
+- một môn học được vắng bao nhiêu buổi?
++ vắng không quá 20% số buổi học
+- ca trễ nhất của môn học là mấy h?
++ [unknow]
+- điểm tối thiểu để qua môn?
++ 5.0
+- môn bơi có bắt buộc sinh viên vượt qua không ?
++ có
+- môn học tiên quyết là gì ?
++ là một học cần hoàn thành trước khi đăng kí môn học khác.
+- môn học bắt buộc là gì ?
++ là môn học tất cả sinh viên phải hoàn thành trong chương trình đào tạo.
+- bơi lội có phải là môn bắt buộc không?
++ có
+- một môn học có bao nhiêu ca học trong một tuần
++ một lần
+- điều kiện rút môn học là gì
++ hủy trước kì thi giữa kì
+- môn bơi lội có bắt buộc không
++ có
+- hình thức đăng ký môn học và kế hoạch học tập
++ qua website sinh viên
+-điều kiện rút môn học?
++ kỳ tiếp theo phải đăng ký từ 14 chỉ; hoặc làm đơn xin rút môn học tại phòng e001
+- tổ hợp môn xét tuyển khoa cntt?
++ (toán, lý, hóa) và (toán, lý, anh).

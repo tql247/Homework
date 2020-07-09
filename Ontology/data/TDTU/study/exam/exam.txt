@@ -1,0 +1,188 @@
+-thi cuối kỳ anh văn cần đúng bao nhiêu câu thì qua?
++khoảng 50% số câu hỏi. tầm 30 câu.
+-bạn thi giữa kỳ cấu trúc rời rạc được bao nhiêu điểm?
++tôi thi được 7.25
+- nếu nộp vào mỹ thuật công nghiệp thì có cần thi môn kĩ năng vẽ riêng không?
++ có
+- tdt có thi năng khiếu không?
++ có.
+- sinh viên bị cấm thi khi nào?
++ điểm trung bình <5.0, nghỉ quá số buổi quy định, giảng viên cấm thi
+- đi trễ bao nhiêu phút thì không được thi?
++ quá 15p
+- sinh viên hoàn thành bao nhiêu phần trăm thì được ra về?
++ 2/3 thời gian môn thi
+- điểm thi cuối kỳ bị 0 thì có bị cấm thi không?
++ có nha
+- có bao nhiêu hình thức thi của một môn học?
++ 3
+- có mấy hình thức lập biên bản trong lúc thi?
++ 5
+- sinh viên bị cấm thi thì điểm môn học tính thế nào?
++ 0 điểm
+- sinh viên không đi thi thì điểm môn học tính thế nào?
++ tính điểm v cột điểm cuối kỳ
+- sinh viên có thể hoãn xin phép dời lịch thi không ?
++ được trong trường hợp sinh viên có lí do chính đáng.
+- ý nghĩa của điểm chữ f ?
++ tính như không
+- ý nghĩa của điểm chữ v ?
++ tính như không.
+- ý nghĩa của điểm chữ h ?
++ tính chưa tính luỹ, không tính vào điểm trung bình học kì, tích luỹ.
+- ý nghĩa của điểm chữ m ?
++ tính vào tín chỉ tích luỹ, không tính vào điểm trung bình học kì, tích luỹ.
+- ý nghĩa của điểm chữ r ?
++ tính chưa tích luỹ, không tính vào điểm trung bình học kì, tích luỹ.
+- cơ chế xếp loại kết quả học tập xuất sắc ?
++ điểm từ 9 đến 10.
+- cơ chế xếp loại kết quả học tập giỏi ?
++ điểm từ 8 đến cận 9
+- cơ chế xếp loại kết quả học tập khá ?
++ điểm từ 7 đến cận 8
+- cơ chế xếp loại kết quả học tập trung bình khá ?
++ điểm từ 6 đến cận 7
+- cơ chế xếp loại kết quả học tập trung bình ?
++ điểm từ 5 đến cận 6
++ khi nào sinh viên bị cấm thi ?
+-	điểm trung bình <5.0, nghỉ quá số buổi quy định, giảng viên cấm thi
+- xem điểm thi ở đâu
++ trên hệ thống thông tin sinh viên, vào mục kết quả học tập
+- thi bằng hình thức nào
++ tùy vào môn học: thi tự luận, thực hành, trắc nghiệm
+- thi trắc nghiệm bao nhiêu phút một môn
++ 45 phút
+- thi trắc nghiệm trên máy hay trên giấy
++ trên máy hoặc trên giấy đều có
+- thi tự luận bao nhiêu phút
++ tùy môn học: 45 phút, 60 phút hoặc 90 phút
+- thi đề mở hay đề đóng
++ đề mở hoặc đề đóng tùy môn học
+- rớt môn phải học lại hay thi lại
++ phải đăng kí học lại
+-thi kỹ năng thực hành chuyên môn cần bao nhiêu điểm để qua môn?
++cần 5 điểm để qua nhé.
+-có được hoãn thi được không ?
++ nếu có lí do chính đáng thì được hoãn thi.
+-thi được điểm thấp có được thi lại không ?
++ không bạn nhé.
+-có được mang điện thoại vào phòng thi không ?
++ được mang nhưng phải tắt chuông đi nhé.
+-khi thi mà điện thoại kêu có bị sao không ?
++ bị lập biên bản và đình chỉ thi nhé.
+-khi nào được rời khỏi phòng thi ?
++ sau 1/2 thời gian thi, được phép nộp bài làm cùng với giấy thi, giấy nháp, đề thi và rời khỏi phòng thi.
+-trong lúc thi nhìn bài bạn có bị sao không ?
++khiển trách, trừ 25% số điểm thi
+-trong lúc thi nói chuyện hoặc nhắc bài cho bạn có bị sao không ?
++khiển trách, trừ 25% số điểm thi
+-không điền đầy đủ thông tin lên giấy nháp có bị sao không ?
++khiển trách, trừ 25% số điểm thi
+-trao đổi bài thi hoặc giấy nháp với nhau có bị sao không ?
++khiển trách, trừ 25% số điểm thi
+-chép bài của người khác hoặc cho người khác chép bài có bị sao không ?
++khiển trách, trừ 25% số điểm thi
+-viết, vẽ vào giầy thi, giấy nháp những nội dung không liên quan đến bài thi thì có bị sao không ?
++đình chỉ thi, hủy kết quả bài thi, xử lý kỉ luật.
+-đưa đề thi ra ngoài có bị sao không ?
++đình chỉ thi, hủy kết quả bài thi, xử lý kỉ luật.
+-nhờ người khác thi hộ có bị sao không ?
++đình chỉ thi, hủy kết quả bài thi, xử lý kỉ luật.
+-đến trễ 20 phút sau khi mở đề thi có được vào không ?
++không bạn nhé
+-mất thẻ sinh viên có được vào thi không ?
++được vào nếu có cmnd hoặc giấy tờ tùy thân có dán ảnh đối chiếu và phải có sự đồng ý của giám sát phòng thi mới được vào.
+-mất hoặc quên mang giấy tờ tùy thân có được vào phòng thi không?
++được vào thi nhưng phải làm cam kết và bổ sung giấy tờ trong vòng 24 tiếng kể từ lúc dự thi tại phòng hội đồng; nếu không bài thi sẽ bị hủy.
+-đến trễ 10 phút có được vào phòng thi không ?
++có bạn nhé.
+-ra về khi chưa có sự đồng ý của giám thị dẫn đến mất bài thi có bị sao không ?
++đình chỉ thi, hủy kết quả bài thi, xử lý kỉ luật.
+-có được viết 2 màu mực trong cùng bài thi hay không ?
++không được viết 2 màu mực nhé.
+-	nội dung thi của môn năng khiếu vẽ trang trí màu?
++	vẽ trang trí màu: thời gian thi 240 phút
+-	nội dung thi của môn năng khiếu vẽ hình họa mĩ thuật?
++	vẽ hình họa mỹ thuật: vẽ tĩnh vật - thời gian thi 240 phút
+-	nội dung thi của môn năng khiếu thể dục thể thao?
++	năng khiếu tdtt: bật xa tại chỗ (cm), chạy 30m (giây), lực bóp tay (kg)
+-	những vật dung cần thiết được mang vào phòng thi của môn vẽ trang trí màu?
++	bảng vẽ (khổ giấy a3). bút chì mềm (2b,3b 4b,5b,6b), thí sinh được chọn loại bút chì mềm phù hợp. màu bột hoặc màu nước (pentel, đông a, mango,…). keo dán dạng nước để pha với màu bột. giấy can mờ hoặc giấy than (không có hình). băng keo giấy, kẹp bướm (không sử dụng băng keo 2 mặt). bảng pha màu (bằng nhựa hoặc gỗ ván ép). cọ vẽ các loại (ít nhất 3 cái lớn, trung, nhỏ). thước eke, compa, gôm (tẩy), viết mực (viết bi). lon đựng nước để rửa cọ. giẻ lau. gọt bút chì.
+-	những vật dung cần thiết được mang vào phòng thi của môn vẽ hình họa mĩ thuật?
++	bảng vẽ (khổ giấy a3). bút chì mềm (2b,3b,4b,5b,6b), thí sinh được chọn loại bút chì mềm phù hợp. viết mực (viết bi). gôm (tẩy). que đo, dây dọi. băng keo giấy, kẹp bướm (không sử dụng băng keo 2 mặt). gọt bút chì.
+-	những vật dung cần thiết được mang vào phòng thi của môn năng khiếu thể dục thể thao?
++	thí sinh dự thi mặc trang phục thể thao, giày thể thao đế bằng.
+-sinh viên khoa nào được miễn thi chứng chỉ mos?
++khoa cntt
+- trường có thi giữa kì không?
++ một số môn sẽ có thi giữa kì. tùy theo ngành.
+- trường có thi cuối kì không?
++ tùy theo qui định của môn học sẽ có qui định về hình thức thi.
+- thi giữa kì bằng hình thức gì?
++ tùy theo nhu cầu của môn học sẽ có hình thức thi phù hợp như: trắc nghiệm hoặc tự luận.
+- có thay thế thi cuối kì bằng hình thức khác không?
++ có thể thay thế bằng cách làm đồ án môn học (tùy vào môn học)
+- thi cuối kì bằng hình thức gì?
++ tùy theo nhu cầu của môn học sẽ có hình thức thi phù hợp như: trắc nghiệm,tự luận hoặc đồ án.
+- có thể hoãn thi được không?
++ nếu bạn có lí do chính đáng bạn có thể liên hệ phòng ban phụ trách.
+- điều kiện để được dự thi?
++ thực hiện đúng và đủ các yêu cầu của môn học. nghỉ không quá 20% số buổi học, hoàn thành các điểm quá trình theo yêu cầu.
+- như thế nào sẽ không được dự thi?
++ nghỉ quá 20% trên tổng số buổi học, không hoàn thành các yêu cầu của môn học và giảng viên giảng dạy.
+- có qui định về trang phục khi đi thi không?
++ không nhưng bạn phải mặc một cách lịch sự và phù hợp với văn phong của nhà trường.
+- khi đi thi cần mang theo những gì?
++ bạn cần mang theo thẻ sinh viên hoặc cmnd trong trường hợp thẻ sinh viên bị mất để giám thị kiểm tra.
+- qui định phòng thi như thế nào?
++ không mang tài liệu vào phòng thi với những môn không được phép mang, tắt nguồn điện thoại di động, balo và áo khoác để đúng theo yêu cầu của giám thị coi thi.
+- có bao nhiêu giám thị trong phòng thi?
++ tùy theo môn và theo diện tích phòng nhà trường sẽ có sắp xếp phù hợp.
+-thi cử theo hình thức nào?
++trắc nghiệm và tự luận
+-một học kì có mấy kì thi?
++hai kì thi: giữa kì và cuối kì
+-thi giữa kì chiếm tỉ trọng bao nhiêu trong điểm trung bình?
++thi giữa kì chiếm 20% tỉ trọng điểm trung bình
+-cách thức đăng ký thi năng khiếu như thế nào ?
++thí sinh đăng ký dự thi môn năng khiếu trực tuyến trên website: admission.tdtu.edu.vn hoặc thinangkhieu.tdtu.edu.vn. sau khi đăng ký thành công, thí sinh phải gửi hồ sơ về tdtu trong thời gian quy định thì hồ sơ mới được xem là hợp lệ. hồ sơ bao gồm:
+-sinh viên vi phạm nội quy phòng thi sẽ bị gì?
++giám thị lập biên bản và đề xuất xử lý:khiển trách trừ 25% điểm, cảnh cáo trừ 50%
+-	tdt có cho thi lại không?
++ không. chỉ có học lại thôi
+-	ở trường tôn đức thắng có được thi lại không?
++ không
+- sinh viên có thể nộp đơn phúc khảo kết quả thi ở đâu?
++ trong hệ thống thông tin sinh viên, phân hệ nộp đơn trực tuyến.
+- nội quy phòng thi là gì?
++ không gian lận. không mang điện thoại vào phòng thi.
+- mô hình thi học kì ở khoa như thế nào
++ thi giữa kì chiếm 20%, cuối kì 50%, 10% và 20% là điểm quá trình hoạt động học tập của bạn trên lớp
+- có bao nhiêu kỳ thi tập trung
++ có hai kỳ thi, giữa kì hoặc cuối kì. nếu cuối kì có đồ án thì chỉ giữa kỳ
+- em có nguyện vọng xét tuyển vào trường đại học tôn đức thắng ngành thi môn năng khiếu nhưng em không thi môn này ở trường đại học tôn đức thắng mà sử dụng kết quả thi ở đại học khác để xét được không?
++ thí sinh phải tham gia thi năng khiếu do tdtu tổ chức. trường không nhận điểm thi năng khiếu của các trường khác chuyển sang.
+- trường có mấy đợt thi năng khiếu vào ngày nào?
++ tdtu sẽ tổ chức 2 đợt thi môn năng khiếu tại cơ sở chính của trường. dự kiến đợt 1: ngày 01 - 02/6/2019 và đợt 2: ngày 06 - 07/7/2019.
+- em có thể đăng ký thi nhiều đợt hay không hay chỉ được chọn 1 đợt?
++ thí sinh được quyền đăng ký thi cả 2 đợt để lấy điểm cao nhất xét tuyển.
+- cách thức đăng ký thi năng khiếu như thế nào?
++ thí sinh đăng ký dự thi môn năng khiếu trực tuyến trên website: admission.tdtu.edu.vn hoặc thinangkhieu.tdtu.edu.vn.
+-nếu bị lập biên bản trong lúc thi thì điểm thi sẽ bị ảnh hưởng như thế nào ?
++trừ 50% số điểm.
+-sinh viên khoa công nghệ thông tin có phải bắt buộc thi kỹ năng thực hành chuyên môn hay không ?
++có
+-sinh viên có được sử dụng tài liệu khi thi các kỳ thi giữa kỳ và cuối kỳ hay không ?
++sinh viên được sử dụng tài liệu chỉ khi kỳ thi của môn học đó cho phép được sử dụng tài liệu
+-sinh viên đi trễ khi tham gia kỳ thi giữa kỳ và cuối kỳ có được vào phòng thi hay không ?
++sinh viên được cho phép vào phòng thi khi thời gian đi trễ dưới 15 phút
+-sinh viên có được hoãn thi các kỳ thi giữa kỳ và cuối kỳ hay không ?
++sinh viên có quyền được hoãn thi giữa kỳ và cuối kỳ nếu có lý do chính đáng và minh chứng cụ thể
+-sinh viên làm đơn hoãn thi ở đâu ?
++phòng tư vấn và hỗ trợ e.001
+-một học kỳ có bao nhiêu lần kiểm tra?
++các bài kiểm tra, và bài tập trong lớp tùy vào thầy cô dạy môn đó; thi giữa kỳ và thi cuối kỳ.
+-khi nào sinh viên bị cấm thi?
++sinh viên vi phạm quy định của giáo viên, của nhà trường sẽ bị cấm thi.
+-sinh viên khoa nào được miễn thi chứng chỉ mos?
++khoa cntt

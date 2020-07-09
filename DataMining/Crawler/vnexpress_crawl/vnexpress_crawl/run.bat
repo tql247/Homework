@@ -1,0 +1,2 @@
+Scrapy crawl vnexpress
+PAUSE

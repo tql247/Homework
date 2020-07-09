@@ -1,0 +1,78 @@
+- một dãy phòng học có bao nhiêu giám thị?
++ ít nhất 1 giám thị
+- có bao nhiêu giám thị coi thi trong 1 phòng thi?
++ ít nhất 1 giám thị
+- nếu bị giám thị lập biên bản thì sẽ bị gì?
++ tùy trường hợp mà trường sẽ kỷ luật theo nội quy.
+- giám thị ở tdtu có dễ thương không?
++ tùy, có người khó, có người dễ, nhưng chung quy là dễ thương.
+- giám thị ở tdtu có khó không?
++ có người khó, có người dễ.
+- làm giám thị có lương không?
++ có, trả lương theo ca trực nhé.
+- lương của giám thị là bao nhiêu?
++ giám thị sẽ được trả lương theo ca trực.
+- sinh viên có thể làm giám thị hay không?
++ có, yêu cầu rất cao.
+- làm giám thị có điểm rèn luyện không?
++ không, nhưng yêu cầu về điểm rèn luyện rất cao.
+- làm giám thị có yêu cầu về điểm rèn luyện không?
++ có, 70 điểm là tối thiểu nhé.
+- làm giám thị có yêu cầu về điểm học tập không?
++ có, 7.0 tối thiểu.
+- sinh viên muốn làm giám thị ở tdtu có những yêu cầu gì?
++ yêu cầu tối thiểu về điểm rèn luyện là 70, điểm học tập là 7.0
+- yêu cầu về điểm rèn luyện và học tập khi muốn ứng tuyển vào đội giám thị là bao nhiêu?
++ yêu cầu tối thiểu về điểm rèn luyện là 70, điểm học tập là 7.0
+- tổng số ca trực tối thiểu của giám thị / tuần là bao nhiêu?
++ ít nhất 6 ca 1 tuần
+- tối thiểu giám thị phải trực bao nhiêu ca trên tuần?
++ ít nhất 6 ca 1 tuần
+- có mấy loại giám thị?
++ 2 loại: giám thị hành lang (hay còn được biết là sinh viên cờ đỏ), và giám thị coi thi.
+- ngoài giám thị hành lang, có thể làm giám thị nào khác không?
++ có, làm giám thị coi thi
+- giám thị coi thi có những lợi ích gì?
++ cũng được trả lương theo ca trực và được tham gia những hoạt động của đội.
+- lợi ích của giám thị coi thi là gì?
++ trả lương theo ca thi và tùy ca thi lương sẽ khác nhau.
+- yêu cầu về giám thị coi thi có khác gì so với giám thị hành lang không?
++ không, cũng là tối thiểu 70 điểm rèn luyện và 7.0 điểm học tập
+- lương của giám thị coi thi so với giám thị hành lang, có chênh lệch không?
++ không nhiều.
+- việc trả lương cho giám thị như thế nào?
++ giám thị coi thi sẽ được nhận lương trực tiếp, giám thị hành lang sẽ nhận qua hình thức chuyển khoản
+- sau mỗi đợt thi, giám thị sẽ nhận được lương ngay lập tức chứ?
++ thường sau mỗi tháng kể từ ngày cuối cùng đợt thi
+- giám thị hành lang được trả lương như thế nào?
++ trả lương theo ca, mỗi tháng nhận 1 lần
+- nếu giám thị vi phạm các lỗi, hình thức kỷ luật là gì?
++ chức vụ đi đôi với trách nhiệm, giám thị sẽ bị kỷ luật từ mức cảnh cáo đến buộc thôi học.
+- hình thức kỷ luật các giám thị vi phạm là gì?
++ giám thị sẽ bị kỷ luật từ mức cảnh cáo đến buộc thôi học.
+- giám thị coi thi có được thiên vị sinh viên/ người quen không?
++ không, nếu để giám sát phát hiện, giám thị sẽ bị phạt từ mức kỷ luật đến buộc rời đội
+- nếu thấy giám thị vi phạm, có được phép tố giác không?
++ hoan nghênh, nhà trường sẽ đảm bảo cho bạn
+- thời gian tuyển giám thị là khi nào?
++ bất cứ khi nào đối với giám thị hàng lang, đầu mỗi kỳ đối với giám thị coi thi
+- khi nào sẽ đăng tuyển giám thị hàng lang?
++ bất cứ khi nào khi thiếu nhân lực
+- khi nào sẽ đăng tuyển giám thị coi thi?
++ trước kỳ thi giữa kỳ của mỗi kỳ.
+- có kiểm tra đánh giá năng lực khi tuyển sinh viên không?
++ các kỳ kiểm tra đánh giá được diễn ra thường xuyên cả khi tuyển và khi làm giám thị.
+- đánh giá năng lực diễn ra như thế nào?
++ dưới hình thức trắc nghiệm, các câu hỏi liên quan đến phòng thi, hành lang, trường học
+- các nguyên tắc đạo đức của giám thị?
++ cần, kiệm, liêm, chính, chí công vô tư.
+-giám thị nhà trường làm nhiệm vụ gì?
++ giám sát kỹ luật, tác phong sinh viên, gác thi, sẵn sàng giúp đỡ sinh viên
+- giám thị thường ở độ tuổi nào?
++ ở các độ tuổi khác nhau.
+- trường mình có giám thị không?
++ có
+-giám thị làm công việc gì?
++giữ an ninh trường học và hỗ trợ kĩ thuật cho các lớp học
+- giám thị mặc đồ gì
++ màu đỏ đô, sơ mi trắng

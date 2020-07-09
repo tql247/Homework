@@ -1,0 +1,119 @@
+-chính sách học bổng gồm mấy loại? kể tên?
++học bổng đào tạo thạc sỹ
+-đối tượng được xét học bổng?
++học viên đã trúng tuyển và nhập học các chương trình đào tạo trình độ thạc sĩ của tdtu
+-lợi ích của học bổng thạc sỹ?
++học bổng 50% cho toàn khóa đào tạo
+-lợi ích học bổng tiến sỹ?
++học bổng toàn phần (100%)
+-mục tiêu chính sác học bổng?
++hỗ trợ, thúc đẩy hoạt động nghiên cứu khoa học bằng việc cung cấp tài chính để người học tiến hành các nghiên cứu và công bố bài báo khoa học trên các tạp chí isi, scopus trong quá trình học tập
+- học bổng thủ khoa vào trường là bao nhiêu?
++ 3 triệu
+- trường có hỗ trợ học bổng cho sinh viên không ?
++ có
+- học bổng khi học tại tdt?
++ những sinh viên giỏi, xuất sắc trong năm học được nhà trường cấp học bổng.
+- tdt có học bổng du học không?
++ có
+- sinh viên ngoại quốc học tại tdt có được hỗ trợ không?
++ hỗ trợ giao lưu văn hóa.
+- các hình thức khen thưởng đối với sinh viên?
++ thư khen, học bổng
+- 	sinh viên quốc tế có được hỗ trợ gì không?
++ 	có, sinh viên quốc tế sẽ được hỗ trợ về các chính sách học bổng, chi phí học tiếng (việt và anh), chi phí sinh hoạt, chi phí ký túc xá, tham gia các hoạt động giao lưu làm quen văn hóa với sinh viên việt nam, và các chính sách hỗ trợ khác theo quy định của nhà trường.
++ tối đa là 3 lần.
+- có được giảm học phí không?
++ có một số trường hợp theo qui định sẽ được giảm học phí. liên phòng cthssv để biết thêm chi tiết.
+- trường mình có học bổng không?
++ có và sẽ chia thành từng mức khác nhau.
+- giá trị học bổng là bao nhiêu?
++ có nhiều mức theo qui định của trường 100%,50% hoặc 30% giá trị học phí theo sơ đồ đào tạo.
+- làm thế nào để có được học bổng?
++ có nhiều mức để xem xét cho sinh viên. liên hệ phòng cthssv để biết thêm thông tin.
+-điều kiện xét học bổng?
++điểm trung bình từ 8 và điểm rèn luyện từ 80
+-các hình thức nhận học bổng ?
++trường có các hình thức nhận học bổng là 100%,80%,50%. mỗi năm điểm học tập đạt loại khá và điểm rèn luyện trên 70
+- điều kiện xét học bổng đầu vào gồm?
++ điểm thi đầu vào >=25đ, bằng toeic đạt 650.
+-sinh viên được cấp học bổng năm học phải thỏa mãn những điều kiện nào?
++ phải thỏa mãn đồng thời các tiêu chí: theo học ngành chính(ngành học thứ nhất); khống xét sinh viên năm cuối; số tín chỉ tích lũy đến thời điểm xét phải lớn hơn hoặc bằng số tín chỉ điều kiện; điểm trung bình 8.0 trở lên(không tính cải thiện); không có môn dưới 5.0 hoặc điểm f,k; điểm rèn luyện năm học 80 trở lên; không vi phạm nội quy; sinh viên năm nhất phải hoàn thành tiếng anh dự bị.
+-trường có nhiều học bổng không?
++[unknown]
+-	làm sao để đạt được học bổng của trường?
++[unknown]
+- điều kiện để một sinh viên đạt học bổng 50% mỗi năm là gì?
++ dtb >= 8.0 & drl >= 80
+- điều kiện để một sinh viên đạt học bổng 30% mỗi năm là gì?
++ dtb >= 7.0 & drl >= 50
+- em có chị là sinh viên của trường, vậy em có được giảm học phí không ạ?
++ học bổng dành cho anh/chị em ruột (cùng cha mẹ) đang học ngành chính trình độ đại học, cao đẳng, trung cấp theo đúng chương trình đào tạo thì kể từ người học thứ 2 được cấp học bổng theo từng năm học. mức học bổng 15% học phí/người học thứ 2/năm học
+- có khó để đạt học bổng của trường không ạ?
++ chỉ cần chăm chỉ thì không khó để đạt được các mức học bổng của trường.
+- điều kiện gì để sinh viên tham gia xét học bổng?
++ kết quả học tập trên 8.0 và rèn luyện trên 80 điểm.
+- nếu học tốt thì trường có tặng học bổng cho em không?
++ nếu sinh viên có học lực và điểm rèn luyện tốt thì trường sẽ xét học bổng cho sinh viên.
+-học bổng ở tdt có tốt không?
++có
+-tdt có miễn giảm học phí cho sv có thành tích cao không?
++có
+- các hình thức khen thưởng đối với sinh viên?
++ thư khen, học bổng
+- trường có cấp học bổng không?
++ có. với điểm trên 8 và điểm rèn luyện trên 70 điểm
+-học bổng ở tdt có tốt không?
++có
+- sinh viên năm cuối được xét học bổng không?
++ không.
+- bao nhiêu tín chỉ để được xét học bổng?
++ số tín chỉ tích lũy ngành chính tính đến lúc xét phải lớn hơn hoặc bằng số tín chỉ điều kiện.
+- điểm trung bình tích lũy bao nhiêu mới được xét học bổng?
++ từ 8.0 trở lên.
+- nếu có môn thuộc ngành chính dưới 5.0 trong năm thì có được xét học bổng không?
++ không được.
+- bao nhiêu điểm rèn luyện thì được xét học bổng?
++ điểm trung bình rèn luyện trong năm từ 80 trở lên.
+- vi phạm nội quy nhà trường có được xét học bổng không?
++ không được.
+- sinh viên năm nhất có được xét học bổng không?
++ được xét bình thường nhưng phải hoàn tất học phần ta dự bị.
+-bao nhiêu điểm học tập được học bổng ?
++ gpa 8.0
+-bao nhiêu điểm rèn luyện được học bổng ?
++80
+- thời gian công bố kết quả xét học bổng?
++ cuối học kì 1, thông báo chính thức có trên trang web của khoa.
+- học sinh có điều kiện khó khăn có khả năng học ở trường?
++ có nhiều loại học bổng hỗ trợ cho học sinh khó khăn, và có thể xin trường gia hạn thời gian đóng học phí
+- có các chính sách gì cho sinh viên có hoàn cảnh khó khăn không?
++ có nhiều loại học bổng hỗ trợ cho học sinh khó khăn, và có thể xin trường gia hạn thời gian đóng học phí
+- sinh viên có hoàn cảnh khó khăn có những ưu đãi gì khi học ở trường?
++ học bổng khuyến khhích
+- gia đình thuộc diện khó khăn nhưng chưa được địa phương chứng nhận thì có được miễn giảm học phí?
++ nếu như có minh chứng và được nhà trường chấp thuận sẽ được xét để miễn giảm học phí
+- mức miễn giảm cho học phí là bao nhiêu?
++ 50% - 100% tùy theo học lực
+- trường có học bổng cho sinh viên hay không?
++ có nhưng sinh viên phải đạt một số điều kiện nhất định
+- điều kiện nào để được nhận học bổng
++ khi điểm học tập từ 8.0đ trở lên và điểm rèn luyện từ 80 trở lên sẽ được xem xét cấp học bổng
+- trường có chế độ miễn giảm cho học sinh như thế nào?
++ sinh viên thuộc diện chính sách được hưởng chế độ miễn-giảm học phí theo nghị định 86/2015/nđ-cp ngày 02/10/2015 của thủ tướng chính phủ.
+- ưu đãi gì khi có anh chị em học trong trường?
++ giảm học phí
+- có anh chị em học chung trường thì học phí có được giảm không?
++ có giảm 15% học phí
+- nếu có anh em học chung trường thì được miễn giảm học phí không?
++ có, giảm 15% học phí.
+- ưu đãi khi có anh chị học chung trường là gì?
++ giảm học phí
+- nếu có anh em học chung trường thì được miễn giảm học phí không?
++ có, giảm 15% học phí.
+- có anh em học chung trường học phí có giảm không?
++ có giảm
+- có anh em học chung trường học phí giảm bao nhiêu phần trăm?
++ giảm 15%
+-tdt có miễn giảm học phí cho sv có thành tích cao không?
++có

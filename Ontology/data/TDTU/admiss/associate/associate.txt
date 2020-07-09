@@ -1,0 +1,58 @@
+-điểm chuẩn vào trường giữa hệ clc và hệ chính quy có khác nhau không?
++có.
+-giữa hệ clc và hệ chính quy có khác nhau về điểm chuẩn đầu vào không?
++có.
+-bạn học tiêu chuẩn hay là clc?
++tôi học tiêu chuẩn
+-lưu ý với chương trình clc?
++thí  sinh là người nước ngoài thì không cần tiếng anh, thí sinh trong nước phải có trình độ ielts >= 5.0 hoặc thi đầu vào
+- trường có liên kết vơi nước ngoài không ?
++ có
+- trường đại học liên kết với tdt?
++ đại học west of england, bristol (vương quốc anh); đại học khoa học ứng dụng saxion (hà lan); đại học kinh tế praha, đại học kỹ thuật ostrava (cộng hòa séc); đại học taylor’s (malaysia); đại học khoa học và công nghệ quốc gia penghu, đại học khoa học và công nghệ lunghwa, đại học feng chia (đài loan),..
+- ưu điểm của việc học đại học liên kết tdt?
++ được học tăng cường tiếng anh trong mô hình nước anh thu nhỏ “little uk” và không gian mở (lần đầu tiên được triển khai tại tdtu), bảo đảm năng lực học trực tiếp bằng tiếng anh trong chương trình liên kết và dễ dàng chuyển tiếp đi du học ở nước ngoài vào 2 năm cuối
+- trường đh tdtu có liên kết với các trường quốc tế hay không?
++ có
++trường của bạn có tuyển sinh liên kết không
+-có
+-trường đại học tôn đúc thắng có liên kết với canada không ?
++có
+- thí sinh tự do có được xét học bạ không?
++ được xét học bạ hệ cao đẳng và chương trình liên kết quốc tế.
+- trường có liên kết với các trường đại học của úc không ạ?
++ có
+- tdt có tuyển sinh theo hình thức liên kết không:
++ có
+- em thấy các trường khác có liên kết với các trường nước ngoài để sinh viên có cơ hội ra học tập tại nước ngoài. vậy trường mình có chương trình đó không ạ?
++ tdtu có đào tạo một số ngành liên kết. khi đăng ký học phần này, sinh viên sẽ học 2 năm trong nước và 2 năm học tập ở nước ngoài.
+-tdt có học liên kết không?
++có
+-điều kiện ứng tuyển chương trình du học luân chuyển campus là gì ?
++học sinh đã tốt nghiệp thpt hoặc tương đương , trình độ tiếng anh đạt b2 theo khung tham chiếu châu âu
+-trường tdtu liên kết với bao nhiêu trường trong chương trình du học luân chuyển campus ?
++8 trường
+-các trường liên kết với tdtu trong chương trình du học luân chuyển campus ?
++đại học west of england bristol ,đại học kinh tế prga ,đại học kỹ thuật ostrava ,đại học khoa học ứng dụng saxion ,đại học khó học và công nghệ lunghwa ,đại học taylor's ,đại học fengchia,đại học khoa học và công nghệ quốc gia penghu.
+-đại học west of england bristol có liên kết với trường tdtu trong chương trình du học luân chuyển campus không ?
++có
+-đại học kinh tế prga có liên kết với trường tdtu trong chương trình du học luân chuyển campus không ?
++có
+-đại học kỹ thuật ostrava có liên kết với trường tdtu trong chương trình du học luân chuyển campus không ?
++có
+-đại học khoa học và công nghệ quốc gia penghu có liên kết với trường tdtu trong chương trình du học luân chuyển campus không ?
++có
+-chương trình du học luân chuyển campus có bao nhiêu giai đoạn ?
++2
+-giai đoạn 1 của chương trình du học luân chuyển campus triển khai ở đâu ?
++trường tdt việt nam
+-giai đoạn 2 của chương trình du học luân chuyển campus triển khai ở đâu ?
++ở 1 trường đại học liên kết với trường tdtu
+-giai đoạn 1 của chương trình du học luân chuyển campus kéo dài bao lâu ?
++2-3 năm
+-giai đoạn 2 của chương trình du học luân chuyển campus kéo dài bao lâu ?
++1-2 năm
+- học sinh liên kết thì được đi du học nước nào?
++ tùy từng năm, khoa sẽ liên kết với mỗi nước có thể khác nhau.
+-tdtu liên kết bao nhiêu quốc gia? kể tên?
++137. cộng hòa czech, malaysia, phần lan

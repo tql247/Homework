@@ -1,0 +1,71 @@
+-- Database: Purchase
+
+-- DROP DATABASE "Purchase";
+
+CREATE DATABASE "Purchase"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'English_United Kingdom.1252'
+    LC_CTYPE = 'English_United Kingdom.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+
+-- Table: public.customer
+
+-- DROP TABLE public.customer;
+
+CREATE TABLE public.customer
+(
+    "Customer_ID" bigint NOT NULL,
+    "Name" text COLLATE pg_catalog."default",
+    "Email" text COLLATE pg_catalog."default",
+    CONSTRAINT "Customer_pkey" PRIMARY KEY ("Customer_ID")
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.customer
+    OWNER to postgres;
+
+
+INSERT INTO public.customer(
+	"Customer_ID", "Name", "Email")
+	VALUES (51703124, 'Linh', 'tqlinh.exe@gmail.com');
+
+INSERT INTO public.customer(
+	"Customer_ID", "Name", "Email")
+	VALUES (51703006, 'Duy', 'zuy123@gmail.com');
+	
+INSERT INTO public.customer(
+	"Customer_ID", "Name", "Email")
+	VALUES (51703092, 'Hoang', 'hoangtruong@gmail.com');
+
+
+-- Table: public.order_catalog
+
+-- DROP TABLE public.order_catalog;
+
+CREATE TABLE public.order_catalog
+(
+    "Order_ID" bigint NOT NULL,
+    "Order_Date" text COLLATE pg_catalog."default" NOT NULL,
+    "Cost" bigint NOT NULL,
+    "Customer_ID" bigint NOT NULL,
+    CONSTRAINT order_pkey PRIMARY KEY ("Order_ID")
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.order_catalog
+    OWNER to postgres;
+
+
+INSERT INTO order_catalog(
+	"Order_ID", "Order_Date", "Cost", "Customer_ID") 
+	VALUES (0, '05-04-2020', 0, 51703124);

@@ -1,0 +1,174 @@
+-ngành khoa học máy tính có bao nhiêu chuyên ngành?
++ngay tại thời điểm bây giờ thì có 4 chuyên ngành khác nhau
+-  số ngành được giảng dạy bằng tiếng việt thuộc chương trình tiêu chuẩn là ?
++ chương trình tiếng việt gồm 40 ngành.
+-  chương trình giảng dạy bằng 50% tiếng anh được áp dụng cho những ngành nào ?
++ chương trình 50% tiếng anh gồm 57 ngành.
+-  chương trình giảng dạy bằng 100% tiếng anh được áp dụng cho những ngành nào ?
++ chương trình 100% tiếng anh gồm 66 ngành.
+-  chương trình giảng dạy theo chương trình liên kết quốc tế có bao nhiêu ngành ?
++ chương trình du học luân chuyển campus gồm 85 ngành.
+-có bao nhiêu nghành thuộc chương trình tuyển sinh liên kết ?
++9
+- hai chuyên ngành của ngành khoa học máy tính khoa công nghệ thông tin?
++ có 2 chuyên ngành : hệ thống thông tin và tính toán thông minh
+- trường có đào tạo ngành khoa học máy tính không?
++ có
+- trường có đào tạo cao học ngành khoa học máy tính không?
++ có
+-khoa công nghệ thông tin hiện đang đào tạo mấy ngành ?
++3 ngành bao gồm: khoa học máy tính, kỹ thuật phần mềm, mạng máy tính và truyền thông.
+-ngành nào yêu cầu học lực giỏi ?
++trừ ngành dược yêu cầu học lực giỏi lớp 12 các ngành còn lại không yêu cầu học lực.
+- ngành nào thì được xét học bạ ?
++tất cả các ngành và chương trình đào tạo đều có thể xét qua phương thức xét học bạ.
+- ngành nào yêu cầu học lực giỏi khi tuyển sinh băng hình thức học bạ?
++ khoa dược.
+- ngành nào được xét tuyển học bạ?
++ tất cả các ngành.
+- khoa cntt có bao nhiêu chuyên ngành?
++ gồm 4 chuyên ngành
+- mã ngành ngôn ngữ anh của trường đh tđt?
++ 7220201
+- mã ngành khoa học máy tính?
++ 52480101.
+-có bao nhiêu ngành trong cntt?
++4
+-ngành cntt đào tạo mấy năm?
++4 năm
+-ngành kế toán đào tạo mấy năm?
++4 năm
+-ngành luật đào tạo mấy năm?
++4 năm
+-ngành dược đào tạo mấy năm?
++6 năm
+-ngành ngân hàng đào tạo mấy năm?
++4 năm
+-ngành ngôn ngữ anh đào tạo mấy năm?
++4 năm
+-trưởng tdt có tổng cộng bao nhiêu ngành của chương trình tiêu chuẩn ?
++39 ngành
+-	khoa công nghệ thông tin trường đại học tôn đức thắng có bao nhiêu chuyên ngành?
++ hiện nay khoa đang đào tạo 4 chuyên ngành.
+-	trường đại học tôn đức thắng có đào tạo sau đại học các ngành nào ?
++ hiện trường đào tạo 18 ngành thạc sĩ và 26 ngành tiến sĩ.
+- chi tiết chuyên ngành khoa công nghệ thông tin là gì
++ mạng máy tính, hệ thống thông tin, công nghệ phần mềm, học máy
+- sinh viên được học bao nhiêu ngành
++ tối đa hai ngành
+- trường có ngành khoa học máy tính không?
++ có
+-ngành kế toán lương có cao không?
++cao
+-có bao nhiêu ngành trong cntt?
++4
+-khoa công nghệ thông tin hiện đang đào tạo mấy ngành ?
++3 ngành bao gồm: khoa học máy tính, kỹ thuật phần mềm, mạng máy tính và truyền thông.
+-sinh viên khóa 20 khoa công nghệ thông tin tốt nghiệp bao nhiêu số tín chỉ tích lũy của ngành?
++ 136 chỉ
+-cao đẳng gồm bao nhiêu ngành?
++13 ngành
+-đại học gồm bao nhiêu ngành?
++40
+- khoa công nghệ thông tin có bao nhiêu chuyên ngành
++ có 4 chuyên ngành
+- khoa cntt có bao nhiêu chuyên ngành?
++ có 4 chuyên ngành: công nghệ phần mềm, trí tuệ nhân tạo, mạng máy tính truyền thông và hệ thống thông tin.
+-có bao nhiêu chuyên ngành đào tạo thạc sỹ và tiến sỹ?
++18 chuyên ngành thạc sĩ và 6 chuyên ngành tiến sĩ
+-ngành cntt có cần mos không?
++không cần.
+- có bao nhiêu ngành trong trường?
++ 40 nghành thuộc chương trình tiêu chuẩn và 17 ngành thuộc chương trình chất lượng cao
+- ngành nào được thí sinh lựa chọn nhiều: các ngành top của trường là?
++ công nghệ thông tin, quản trị kinh doanh, kinh doanh quốc tế, dược.
+- có bao nhiêu chuyên ngành đào tạo hệ cao đẳng?
++ 13 ngành
+- có thể đăng kí học 2 chuyên ngành một lúc không?
++ có
+-ủa 17 khoa thì trường này chắc nhiều ngành lắm ha?
++40 chuyên ngành luôn đó.
+- trường có tuyển ngành khoa học máy tính không ?
++ có
+- trường có tuyển ngành kỹ thuật phần mềm không ?
++ có
+- trường có tuyển ngành cơ điện tử không ?
++ có
+- trường có tuyển ngành kỹ thuật truyền thông không ?
++ có
+- trường có tuyển ngành quản trị kinh doanh không ?
++ có
+- trường có tuyển ngành quản lý nhân sự không ?
++ có
+- trường có tuyển ngành quản lý nhà hàng khách sạn không ?
++ có
+- trường có tuyển ngành khoa học ứng dụng không ?
++ có
+- trường có tuyển ngành khoa học thể thao không ?
++ có
+- trường có tuyển ngành mỹ thuật công nghiệp không ?
++ có
+- trường có tuyển ngành dược sĩ không ?
++ có
+- ngành khoa học máy tính có cần học lực giỏi ở lớp 12 không ?
++ không
+- tdt có bao nhiêu ngành học?
++ 39
+- tdt có ngành dược không?
++ có.
+- sinh viên có thể đăng kí một lúc 2 ngành học không ?
++ được
+-	số ngành đại học của tdtu là bao nhiêu?
++	40
+-	số ngành thạc sĩ của tdtu là bao nhiêu?
++	18
+-	số ngành tiến sĩ của tdtu là bao nhiêu?
++	26
+-  số ngành được giảng dạy bằng tiếng việt thuộc chương trình tiêu chuẩn là ?
++ chương trình tiếng việt gồm 40 ngành.
+-  chương trình giảng dạy bằng 50% tiếng anh được áp dụng cho những ngành nào ?
++ chương trình 50% tiếng anh gồm 57 ngành.
+-  chương trình giảng dạy bằng 100% tiếng anh được áp dụng cho những ngành nào ?
++ chương trình 100% tiếng anh gồm 66 ngành.
+-  chương trình giảng dạy theo chương trình liên kết quốc tế có bao nhiêu ngành ?
++ chương trình du học luân chuyển campus gồm 85 ngành.
+-trường đào tạo tất cả bao nhiêu ngành nghề?
++40 chuyên ngành
+-số ngành đào tạo thạc sĩ và tiến sĩ?
++thạc sĩ là 18, tiến sĩ là 26
+-năm nhất ngành công nghệ thông tin học ngôn ngữ nào?
++c và java
+-nêu một số cấu trúc dữ liệu được dạy trong ngành công nghệ thông tin?
++mảng, queue, stack, bst, avl...
+-số tín chỉ tối thiểu để ra trường ngành công nghệ phần mềm?
++136
+-ngành công nghệ thông tin có học mos không?
++không
+-tuyển sinh trường đại học tôn đức thắng có ngành khoa học máy tính không?
++có nha em
+-ngành luật có được dạy trong trường không ?
++có
+- khoa cntt có bao nhiêu chuyên ngành?
++ gồm 4 chuyên ngành
+- mã ngành ngôn ngữ anh của trường đh tđt?
++ 7220201
+-khóa 20(năm 2016) của khoa công nghệ thông tin có bao nhiêu chuyên ngành ?
++4 chuyên ngành: công nghệ phần mềm, hệ thống thông tin, mạng máy tính và các hệ thống phân tán, tính toán thông minh
+-	sinh viên tdt đào tạo những ngành nào?
++ [unknown]
+-	ngành cntt của tdt phải học mấy năm?
++ 4 năm chính khóa nhưng chỉ được học tối đa 7 năm
+-	những ngành nào được xét học bạ?
++ tất cả các ngành đều xét học bạ
+-	ngành dược đầu ra của trường là bao nhiêu chỉ?
++ [unknown]
+-	ngành du lịch của tdt có được đi nước ngoài hay không?
++	[unknown]
+- đại học tôn đức thắng đào tạo thạc sĩ ở bao nhiêu ngành ?
++ 18 ngành
+- khi nào có thể đăng kí học chuyên ngành 2?
++ bắt đầu từ năm 2. xét trên kết quả học tập.
+-trường tđt đào tạo bao nhiêu chuyên ngành?
++38 chuyên ngành.
+-	trường đại học tôn đức thắng hiện nay đào tạo bao nhiêu ngành?
++ hơn 40 ngành học

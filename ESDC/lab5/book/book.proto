@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.book";
+option java_outer_classname = "BookProto";
+option objc_class_prefix = "HLW";
+
+package book;
+
+service BookShelf {
+
+  rpc addBook (Request) returns (Response) {}
+  rpc getBooks (Request) returns (Response) {}
+  rpc remove (Request) returns (Response) {}
+  rpc removeAll (Request) returns (Response) {}
+  rpc edit (Request) returns (Response) {}
+  rpc find (Request) returns (Response) {}
+  rpc loadData (Request) returns (Response) {}
+}
+
+
+message Request {
+  string name = 1;
+  string id = 2;
+}
+
+message Response {
+  string message = 1;
+}

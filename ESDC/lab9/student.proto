@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.std";
+option java_outer_classname = "Student";
+option objc_class_prefix = "HLW";
+
+package lab9;
+
+service HTTTSV {
+
+  rpc login (Request) returns (Response) {}
+  rpc view_profile (Request) returns (Response) {}
+}
+
+
+message Request {
+  string message = 1;
+}
+
+message Response {
+  string message = 1;
+}

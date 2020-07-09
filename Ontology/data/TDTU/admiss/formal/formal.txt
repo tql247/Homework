@@ -1,0 +1,309 @@
+-tổ hợp môn tuyển sinh của nghành khoa học máy tính năm 2019 ?
++a00,a01,d01
+-tổ hợp môn tuyển sinh của nghành kế toán năm 2019 ?
++a00,a01,c01,d01
+-tổ hợp môn tuyển sinh của nghành ngôn ngữ anh năm 2019 ?
++d01,d11
+-tổ hợp môn tuyển sinh của nghành điện - điện tử  năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành điện tử viễn thông năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành tự độn hóa năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành thiết kế công nghiệp năm 2019 ?
++h00,h01,h02
+-tổ hợp môn tuyển sinh của nghành thiết kế đồ họa năm 2019 ?
++h00,h01,h02
+-tổ hợp môn tuyển sinh của nghành thiết kế thời trang năm 2019 ?
++h00,h01,h02
+-tổ hợp môn tuyển sinh của nghành kỹ thuật hóa  năm 2019 ?
++a00,b00,d07
+-tổ hợp môn tuyển sinh của nghành kiến trúc năm 2019 ?
++v00,v01
+-tổ hợp môn tuyển sinh của nghành quy hoạch vùng và đô thị năm 2019 ?
++a00,a01,v00,v01
+-tổ hợp môn tuyển sinh của nghành thiết kế nội thất năm 2019 ?
++h00,h01,h02
+-tổ hợp môn tuyển sinh của nghành kỹ thuật xây dựng năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành kỹ thuật xây dựng công trình giao thông năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành dược học năm 2019 ?
++a00,b00,d07
+-tổ hợp môn tuyển sinh của nghành công tác xã hội năm 2019 ?
++a01,c00,c01,d01
+-tổ hợp môn tuyển sinh của nghành  quản lý thể dục thể thao năm 2019 ?
++a01,d01,t00,t01
+-tổ hợp môn tuyển sinh của nghành golf năm 2019 ?
++a01,d01,t00,t01
+-tổ hợp môn tuyển sinh của nghành ngôn ngữ anh cơ sở bảo lộc năm 2019 ?
++d01,d11
+-tổ hợp môn tuyển sinh của nghành du lịch và quản lý du lịch cơ sở bảo lộc năm 2019 ?
++a01,c00,c01,d01
+-tổ hợp môn tuyển sinh của nghành quản trị nhà hàng khách sạn cơ sở bảo lộc năm 2019 ?
++a00,a01,d01
+-tổ hợp môn tuyển sinh của nghành luật cơ sở bảo lộc năm 2019 ?
++a00,a01,c00,d01
+-tổ hợp môn tuyển sinh của nghành kỹ thuật phần mềm cơ sở bảo lộc năm 2019 ?
++a00,a01,d01
+-tổ hợp môn tuyển sinh của nghành khoa học máy tính chất lượng caonăm 2019 ?
++a00,a01,d01
+-tổ hợp môn tuyển sinh của nghành kế toán chất lượng cao năm 2019 ?
++a00,a01,c01,d01
+-tổ hợp môn tuyển sinh của nghành ngôn ngữ anh chất lượng cao năm 2019 ?
++d01,d11
+-tổ hợp môn tuyển sinh của nghành điện - điện tử chất lượng cao năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành điện tử viễn thông chất lượng cao năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành tự động hóa chất lượng cao năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành kỹ thuật xây dựng chất lượng cao năm 2019 ?
++a00,a01,c01
+-tổ hợp môn tuyển sinh của nghành quản trị kinh doanh chất lượng cao năm 2019 ?
++a00,a01,d01
+-năm 2019 chỉ tiêu tuyển sinh của trường tdt là bao nhiêu ?
++6570 chỉ tiêu
+-có bao nhiêu hình thức xét tuyển ?
++ 3 hình thức : kết quả học bạ, thi thpt quốc gia, tuyển thẳng
+-đối tượng của xét tuyển học bạ ?
++thí sinh học tập tại trường thpt đã có ký kết với tdtu , hoàn thành chương trình lớp 12
+-phạm vị xét tuyển học bạ ?
++xét tuyển vào tất cả các nghành của bậc đại học ở tất cả chương trình
+-điều kiện của xét tuyển học bạ ?
++xét theo điểm tb 5 học kỳ
+-điều kiện của thí sinh xét tuyển học bạ vào nghành năng khiếu ?
++tham gia môn thi vẽ hình họa mỹ thuật
+- nộp hồ sơ xet tuyển vào công nghệ thông tin dh tôn đức thắng vậy có thể thay đổi qua ngành khác không?
++ thí sinh đăng ký xét tuyển học bạ sẽ được điều chỉnh hồ sơ cho đến khi nhấn nút in phiếu đăng ký xét tuyển. thí sinh đã in phiếu sẽ không được điều chỉnh hồ sơ cho đến khi mở đợt điều chỉnh
+- nộp hồ sơ xet tuyển vào ngành dược dh tôn đức thắng vậy có thể thay đổi qua ngành khác không?
++ thí sinh đăng ký xét tuyển học bạ sẽ được điều chỉnh hồ sơ cho đến khi nhấn nút in phiếu đăng ký xét tuyển. thí sinh đã in phiếu sẽ không được điều chỉnh hồ sơ cho đến khi mở đợt điều chỉnh
+- nộp hồ sơ xet tuyển vào ngành điện điện tử dh tôn đức thắng vậy có thể thay đổi qua ngành khác không?
++ thí sinh đăng ký xét tuyển học bạ sẽ được điều chỉnh hồ sơ cho đến khi nhấn nút in phiếu đăng ký xét tuyển. thí sinh đã in phiếu sẽ không được điều chỉnh hồ sơ cho đến khi mở đợt điều chỉnh
+- khoa cntt đại học tôn đức thắng tuyển bao nhiêu học sinh?
++ 1200 sinh viên.
+- em là học sinh trường chuyên, em muốn xét tuyển vào trường đại học tôn đức thắng bằng phương thức xét tuyển theo kết quả quá trình học tập bậc thpt thì có lợi thế gì hơn so với các bạn học sinh trường khác không?
++ thí sinh là học sinh trường chuyên sẽ được hưởng một số chính sách ưu tiên khi đăng ký xét tuyển vào trường theo phương thức xét tuyển học bạ như sau:
+- cho em hỏi là trường mình có ưu tiên thứ tự nguyện vọng không?
++ theo nguyên tắc xét tuyển thì sẽ xét theo thứ tự ưu tiên nguyện vọng mà thí sinh ghi trong hồ sơ từ trên xuống. thí sinh trúng tuyển nguyện vọng ở thứ tự ưu tiên nào thì sẽ không xét tuyển những nguyện vọng có thứ tự ưu tiên thấp hơn. vì vậy, khi điền nguyện vọng xét tuyển thí sinh phải lưu ý một điều: ngành nào, trường nào mình thích nhất thì để lên trên cùng rồi giảm dần theo mức độ thích.
+- đối với các ngành xét nhiều tổ hợp nhà trường có chỉ tiêu riêng cho nhiều tổ hợp không?
++ căn cứ vào điểm chuẩn để xét.
+- ngành khoa học máy tính tuyển sinh bao nhiêu sinh viên ?
++mỗi năm trường đại học tôn đức thắng tuyển sinh ngành khoa học máy tính khoảng [unknown]
+-tuyển sinh trường đại học tôn đức thắng có ngành kiến trúc không?
++có
+-tuyển sinh trường đại học tôn đức thắng có ngành truyền thông mạng máy tính không?
++có
+- ngành nào yêu cầu học lực giỏi khi tuyển sinh băng hình thức học bạ?
++ khoa dược.
+- ngành nào được xét tuyển học bạ?
++ tất cả các ngành.
+- hồ sơ học bạ gồm những gì?
++ hồ sơ học bạ gồm: phiếu đăng kí xét tuyển, giấy tờ cá nhân: bản photo công chứng học bạ thpt, công chứng bản photo cmnd/ căn cước, shk nếu thường trú trên 18 tháng ở xã đặc biệt khó khăn.
+- làm thế nào để có phiếu đăng kí xét tuyển?
++ vào trang chủ của trường, nhấn chọn " xem hồ sơ in phiếu" chọn " xem, điều chỉnh, in phiếu" chọn in.
+- sau khi in phiếu có các mục trống có cần điền vào không?
++ sau khi in phiếu thành công, không cần điền gì cả
+- làm sao để biết trường đã nhận hồ sơ hay chưa?
++ nhập mã của bưu phẩm để xem hoặc vào trang chủ của trường vào mục " xem hồ sơ in phiếu đăng kí" để xem
+- đăng kí xét tuyển ở chỗ nào?
++ đăng kí tại trường hoặc nộp hồ sơ online.
+- có cần nộp học bạ không?
++ cần nộp mới là hợp lệ.
+- giấy tờ ưu tiên là gì?
++ dành cho các bạn thuộc đối tượng ưu tiên, chính sách ưu tiên.
+- có cần nộp sổ họ khẩu hay không?
++ đối với sinh viên có shk thường trú trên 18 tháng ở xã đặc biệt khó khăn mới cần nộp làm minh chứng.
+- nhập sai hồ sơ thì phải làm sao ạ?
++ trừ trường hợp nhập sai cmnd còn lại in phiếu nộp bình thường, sau sẽ có ngày điểu chỉnh hồ sơ online
+- chỉ tiêu tuyển sinh năm 2019 là bao nhiêu sinh viên?
++ chỉ tiêu đầu vào bằng 2/3 chỉ tiêu trong cột phương thức khác.
+- các ngành thuộc khoa điện – điện tử thì cần phải thi những khối nào ạ?
++ các ngành thuộc khoa điện – điện tử bao gồm các khối: a00, a01, c01.
+-	tổ hợp môn xét tuyển ngành dược năm 2017-2018 là gì?
++	a, b
+-	tổ hợp môn xét tuyển ngành kinh doanh quốc tế năm 2017-2018 là gì?
++	a, a1, c, d1
+-	tổ hợp môn xét tuyển ngành quản trị kinh doanh(cn marketing) năm 2017-2018 là gì?
++	a, a1, c, d1
+-	tổ hợp môn xét tuyển ngành quản trị kinh doanh(cn quản trị nhà hàng-khách sạn) năm 2017-2018 là gì?
++	a, a1, c, d1
+-	tổ hợp môn xét tuyển ngành luật năm 2017-2018 là gì?
++	a, a1, c, d1
+-	tổ hợp môn xét tuyển ngành việt nam học(cn du lịch-lữ hành) năm 2017-2018 là gì?
++	a1, c, c1, d1
+-	tổ hợp môn xét tuyển ngành việt nam học(cn quản lí du lịch) năm 2017-2018 là gì?
++	a1, c, c1, d1
+-	tổ hợp môn xét tuyển ngành thiết kế công nghiệp năm 2017-2018 là gì?
++	h, h1, h2
+-	tổ hợp môn xét tuyển ngành thiết kế đồ họa năm 2017-2018 là gì?
++	h, h1, h2
+-	tổ hợp môn xét tuyển ngành thiết kế thời trang năm 2017-2018 là gì?
++	h, h1, h2
+-	tổ hợp môn xét tuyển ngành nội thất năm 2017-2018 là gì?
++	h, h1, h2
+-	tổ hợp môn xét tuyển ngành ngôn ngữ anh năm 2017-2018 là gì?
++	d1, d11
+-	tổ hợp môn xét tuyển ngành ngôn ngữ trung năm 2017-2018 là gì?
++	d1, d4, d11, d55
+-	tổ hợp môn xét tuyển ngành ngôn ngữ trung-anh năm 2017-2018 là gì?
++	d1, d4, d11, d55
+-	tổ hợp môn xét tuyển ngành quản lí thể thao năm 2017-2018 là gì?
++	a, d1, t, t1
+-	tổ hợp môn xét tuyển ngành kế toán năm 2017-2018 là gì?
++	a, a1, c1, d1
+-	tổ hợp môn xét tuyển ngành tài chính ngân hàng năm 2017-2018 là gì?
++	a, a1, c1, d1
+-	tổ hợp môn xét tuyển ngành quan hệ lao động năm 2017-2018 là gì?
++	a, a1, c1, d1
+-	tổ hợp môn xét tuyển ngành xã hội học năm 2017-2018 là gì?
++	a1, c, c1, d1
+-	tổ hợp môn xét tuyển ngành công tác xã hội năm 2017-2018 là gì?
++	a1, c, c1, d1
+-	tổ hợp môn xét tuyển ngành bảo hộ lao động năm 2017-2018 là gì?
++	a, b, c2
+-	tổ hợp môn xét tuyển ngành khoa học môi trường năm 2017-2018 là gì?
++	a, b, c2
+-	tổ hợp môn xét tuyển ngành công nghệ kĩ thuật môi trường năm 2017-2018 là gì?
++	a, b, c2
+-	tổ hợp môn xét tuyển ngành toán ứng dụng năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành toán thống kê năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành khoa học máy tính năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành truyền thông và mạng máy tính năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành kĩ thuật phần mềm năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành kĩ thuật hóa học năm 2017-2018 là gì?
++	a, b, c2
+-	tổ hợp môn xét tuyển ngành  công nghệ sinh học năm 2017-2018 là gì?
++	a, b
+-	tổ hợp môn xét tuyển ngành kiến trúc năm 2017-2018 là gì?
++	v, v1
+-	tổ hợp môn xét tuyển ngành qui hoạch vùng đô thị năm 2017-2018 là gì?
++	a, a1, v, v1
+-	tổ hợp môn xét tuyển ngành kĩ thuật công trình năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành kĩ thuật xây dựng công trình giao thông năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành kĩ thuật điện-điện tử năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành kĩ thuật điện tử truyền thông năm 2017-2018 là gì?
++	a, a1, c1
+-	tổ hợp môn xét tuyển ngành kĩ thuật điều khiển và tự động hóa năm 2017-2018 là gì?
++	a, a1, c1
+-	tuyển sinh clc có những hình thức nào?
++	xét tuyển thắng, xét học bạ, xét điểm tốt nghiệp thpt
+-	tuyển sinh liên kết có những hình thức nào?
++	xét tuyển thắng, xét học bạ, xét điểm tốt nghiệp thpt
++trường của bạn có bao nhiêu hình thức tuyển sinh
+-4
++ yêu cầu học lực để vào trường là gì?
+-không yêu cầu học lực nha em
+- nếu xét đợt một không đậu có xét đợt hai hay không?
++ không, chỉ được xét vào hệ clc.
+- tổ hợp môn xét tuyển vào cntt?
++ khối a, b, a1.
+-	tuyển sinh khoa công nghệ thông tin năm 2018-2019 lấy bao nhiêu sinh viên?
++   	300
+-	tuyển sinh khoa  luật năm 2018-2019 lấy bao nhiêu sinh viên?
++	120
+-	tuyển sinh khoa kĩ thuật công trình năm 2018-2019 lấy bao nhiêu sinh viên?
++ 	110
+-	tuyển sinh khoa điện năm 2018-2019 lấy bao nhiêu sinh viên?
++	120
+-	tuyển sinh khoa khoa học ứng dụng năm 2018-2019 lấy bao nhiêu sinh viên?
++	300
+-	tuyển sinh khoa mĩ thuật công nghiệp năm 2018-2019 lấy bao nhiêu sinh viên?
++	200
+-	tuyển sinh khoa toán thống kê năm 2018-2019 lấy bao nhiêu sinh viên?
++	150
+-	tuyển sinh khoa kế toán năm 2018-2019 lấy bao nhiêu sinh viên?
++	350
+-	tuyển sinh khoa dược năm 2018-2019 lấy bao nhiêu sinh viên?
++	200
+-	tuyển sinh khoa ngôn ngữ anh năm 2018-2019 lấy bao nhiêu sinh viên?
++	320
+- 	đối tượng xét tuyển dựa vào kết quả học tập trung học phổ thông gồm những ai?
++	thí sinh học tập tại các trường thpt đã ký kết hợp tác với tdtu, đã hoàn thành chương trình lớp 12 bậc thpt năm 2019 (chưa có kết quả học kỳ cuối của lớp 12), đủ điều kiện xét tuyển theo quy định của trường
+-	phạm vi xét tuyển dựa vào kết quả học tập trung học phổ thông?
++	xét tuyển vào tất cả các ngành bậc đại học của tất cả các chương trình
+-	điều kiện xét tuyển dựa vào kết quả học tập trung học phổ thông?
++	xét tuyển theo kết quả học tập 5 học kỳ (hk1, hk2 lớp 10; hk1, hk2 lớp 11; hk1 lớp 12) đảm bảo các điều kiện sau: thí sinh có điểm trung bình 05 học kỳ của từng môn trong tổ hợp xét tuyển ≥ 6,00; đồng thời đạt ngưỡng bảo đảm chất lượng đầu vào (điểm xét tuyển 05 học kỳ và điều kiện môn học) theo từng ngành được quy định ở phụ lục 1. thí sinh xét tuyển vào các ngành năng khiếu (thiết kế công nghiệp, thiết kế đồ họa, thiết kế thời trang, thiết kế nội thất, kiến trúc) phải tham gia thi môn vẽ hình họa mỹ thuật do tdtu tổ chức. tdtu không nhận điểm thi năng khiếu của các trường khác
+-	đối tượng xét tuyển dựa vào kết quả thi trung học phổ thông quốc gia gồm những ai?
++	thí sinh đã tốt nghiệp thpt (hoặc tương đương theo quy định của bộ gd&đt) và có kết quả điểm trong kỳ thi thpt quốc gia (thptqg) năm 2019
+-	thời gian công bố kết quả trúng tuyển năm 2019?
++	kết quả trúng tuyển sẽ được tdtu thông báo trước 17h00 ngày 09/8/2019 trên website: http://admission.tdtu.edu.vn
+-	thời gian thí sinh trúng tuyển nộp giấy chứng nhận kết quả thi trung học phổ thông năm 2019?
++ 	thời gian nộp bản gốc giấy chứng nhận kết quả thi thptqg: từ ngày 10/8/2019 đến trước 17h00 ngày 15/8/2019 (tính theo dấu bưu điện nếu nộp qua bưu điện)
+-	thời gian nhận thứ mời nhập học và làm thủ tục nhập học năm 2019?
++	căn cứ vào kết quả trúng tuyển công bố trên website http://admission.tdtu.edu.vn, thí sinh đến tdtu nhận thư mời nhập học trực tiếp và làm thủ tục nhập học từ 12/8 – 18/8/2019. (nhằm tạo điều kiện thuận lợi cho thí sinh, thí sinh có thể làm thủ tục nhập học ngay khi xác nhận nhập học từ ngày 10/8/2019)
+-	xét tuyển năm 2019 có qui định về điểm ưu tiên đối tượng, khu vực không?
++	có
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với khu vực 1?
++	0.75
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với khu vực 2nt?
++	0.5
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với khu vực 2?
++	0.25
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với khu vực 3?
++	0
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với đối tượng 1?
++	2
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với đối tượng 2?
++	2
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với đối tượng 3?
++	2
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với đối tượng 4?
++	2
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với đối tượng 5?
++	1
+-	điểm cộng theo quy định của bộ gd&đt (thang 30 điểm) năm 2019 với đối tượng 6?
++	1
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với khu vực 1?
++	1
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với khu vực 2nt?
++	0.67
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với khu vực 2?
++	0.33
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với khu vực 3?
++	0
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với đối tượng 1?
++	2.67
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với đối tượng 2?
++	2.67
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với đối tượng 3?
++	2.67
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với đối tượng 4?
++	2.67
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với đối tượng 5?
++	1.33
+-	điểm cộng theo quy định của đại học tôn đức thắng (thang 40 điểm) năm 2019 với đối tượng 6?
++	1.33
+-	đối tượng thi tuyển năng khiếu gồm những ai?
++	thí sinh tốt nghiệp trung học phổ thông (thpt) đăng ký xét tuyển vào đại học chính quy của trường đại học tôn đức thắng (tdtu) các ngành: kiến trúc, quy hoạch vùng và đô thị, thiết kế công nghiệp, thiết kế đồ họa, thiết kế thời trang, thiết kế nội thất, quản lý thể dục thể thao, golf theo các phương thức xét tuyển của tdtu năm 2019, bao gồm: phương thức xét tuyển theo kết quả quá trình học tập thpt (phương thức 1), phương thức xét tuyển theo kết quả thi thpt quốc gia 2019 (phương thức 2), phương thức xét tuyển thẳng (phương thức 3)
+-có bao nhiêu hình thức thi vào trường tôn đức thắng ?
++có thể nộp hồ sơ xét tuyển hoặc thi đại học
+-trường tôn đức thắng có nhận hồ sơ xét tuyển không ?
++có
+- đối tượng nào được ưu tiên điểm xét tuyển và các quy định được áp dụng ?
++ các đối tượng theo quy chế tuyển sinh của bộ gd&đt.;thí sinh các trường chuyên trên cả nước và một số trường trọng điểm tại tphcm.(danh  sách trường mà thí sinh được xét ưu tiên tuyển thẳng công bố tại website admission.tdtu.edu.vn).;thí sinh có chứng chỉielts 5.0 trở lên (hoặc chứng chỉ tiếng anh quốc tế tương đương); thí sinh đã học thpt ở các nước mà tiếng anh là ngôn ngữ chính; thí sinh học các chương trình thpt nước ngoài ở các trường thpt quốc tế tại việt nam... được xét tuyển thẳng vào các chương trình đại học dạy -học bằng tiếng anh(dựa vào kết quả học tập bậc thpt)
+- xét tuyển thẳng áp dụng cho những đối tượng nào ?
++ dành cho thí sinh thuộc các trường thpt chuyên trên cả nước; một số trường trọng điểm tại tphcm; các trường có yếu tố quốc tế.
+- có những điều gì cần lưu ý cho hồ sơ xét tuyển bậc đại học ?
++ phiếu đăng ký xét tuyển thẳng; bản photocopy học bạ 3 năm học thpt; hai phong bì đã dán tem và ghi rõ họ tên, địa chỉ liên lạc, số điện thoại của thí sinh; hai ảnh chân dung cỡ 4 x 6;  bản photocopy hộ khẩu thường trú (đối với diện xét tuyển thẳng tại điểm i; bản photocopy có chứng thực giấy xác nhận thí sinh là người khuyết tật đặc biệt nặng do cơ quan có thẩm quyền cấp theo quy định (đối với diện xét tuyển thẳng tại điểm g);
+-đối tương tuyển sinh xét tuyển đợt 2 dựa vào kết quả quá trình học tập thpt ?
++đối với học sinh các trường thpt chưa ký kết hợp tác với tdtu
+-đối tương tuyển sinh xét tuyển đợt 2 dựa vào kết quả quá trình học tập thpt chưa ký kết hợp tác với tdtu?
++thí sinh đã hoàn tất chương trình lớp 12 bậc thpt năm 2019 của các trường thpt chưa ký kết hợp tác với tdtu  xét tuyển theo kết quả học tập 06 học kỳ vào tất cả các ngành
+-đối tượng tuyển sinh xét tuyển đợt 3 vào chương trình chất lượng cao dạy - học bằng tiếng anh là gì ?
++thí sinh đã hoàn tất chương trình lớp 12 bậc thpt năm 2019 trên cả nước, đủ điều kiện đăng ký xét tuyển theo quy định của trường vào chương trình chất lượng cao dạy - học bằng tiếng anh
+-phạm vi tuyển sinh xét tuyển đợt 3 vào chương trình chất lượng cao dạy - học bằng tiếng anh là gì ?
++09 ngành giáo dục bậc đại học của chương trình chất lượng cao dạy - học bằng tiếng anh
+-điều kiện tuyển sinh xét tuyển đợt 3 vào chương trình chất lượng cao dạy - học bằng tiếng anh là gì ?
++ đối với thí sinh thuộc trường thpt đã ký kết với tdtu áp dụng theo điều kiện xét tuyển của đợt 1 (xét theo điểm 05hk);
+-đối tượng tuyển sinh xét tuyển theo phương thức 2 xét tuyển dựa vào kết quả thi thpt quốc gia 2019 là gì ?
+-hệ chất lượng cao cần bao nhiêu điểm tích lũy tín chỉ để ra trường?
++hệ chất lượng cao cần 148 tín chỉ. còn hệ đại trà là 136 tín chỉ

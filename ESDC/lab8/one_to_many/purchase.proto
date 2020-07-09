@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.purchase";
+option java_outer_classname = "PurchaseProto";
+option objc_class_prefix = "HLW";
+
+package one_to_many;
+
+service MakeOrder {
+
+  rpc addOrder (Request) returns (Response) {}
+  rpc getOrder (Request) returns (Response) {}
+}
+
+
+message Request {
+  string message = 1;
+}
+
+message Response {
+  string message = 1;
+}

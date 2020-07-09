@@ -1,0 +1,63 @@
+-- Database: HTTTSV
+
+-- DROP DATABASE "HTTTSV";
+
+CREATE DATABASE "HTTTSV"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'English_United Kingdom.1252'
+    LC_CTYPE = 'English_United Kingdom.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+
+
+-- Table: public.account
+
+-- DROP TABLE public.account;
+
+CREATE TABLE public.account
+(
+    "ID" text COLLATE pg_catalog."default" NOT NULL,
+    "Password" text COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT account_pkey PRIMARY KEY ("ID")
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.account
+    OWNER to postgres;
+
+
+-- Table: public.student
+
+-- DROP TABLE public.student;
+
+CREATE TABLE public.student
+(
+    "ID" text COLLATE pg_catalog."default" NOT NULL,
+    "Name" text COLLATE pg_catalog."default" NOT NULL,
+    "Gender" text COLLATE pg_catalog."default" NOT NULL,
+    "Birth" text COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT student_pkey PRIMARY KEY ("ID")
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.student
+    OWNER to postgres;
+
+
+INSERT INTO public.account(
+	"ID", "Password")
+	VALUES ('51703124', 'password');
+
+
+INSERT INTO public.student(
+	"ID", "Name", "Gender", "Birth")
+	VALUES ('51703124', 'Tran Quoc Linh', 'Male', '24-07-1999');

@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.reg";
+option java_outer_classname = "RegProto";
+option objc_class_prefix = "HLW";
+
+package one_to_many;
+
+service Reg {
+
+
+  rpc create_passport (Request) returns (Response) {}
+  rpc add_to_person (Request) returns (Response) {}
+  rpc getlist (Request) returns (Response) {}
+}
+
+
+message Request {
+  string message = 1;
+}
+
+message Response {
+  string message = 1;
+}

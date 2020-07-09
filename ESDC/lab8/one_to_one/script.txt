@@ -1,0 +1,61 @@
+-- Database: Reg
+
+-- DROP DATABASE "Reg";
+
+CREATE DATABASE "Reg"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'English_United Kingdom.1252'
+    LC_CTYPE = 'English_United Kingdom.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+
+
+-- Table: public.passport
+
+-- DROP TABLE public.passport;
+
+CREATE TABLE public.passport
+(
+    "Passport_ID" bigint NOT NULL,
+    "Valid_Date" "char" NOT NULL,
+    "Country_of_Issue" "char" NOT NULL,
+    CONSTRAINT "Passport_pkey" PRIMARY KEY ("Passport_ID")
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.passport
+    OWNER to postgres;
+
+
+-- Table: public.person
+
+-- DROP TABLE public.person;
+
+CREATE TABLE public.person
+(
+    "Person_ID" bigint NOT NULL,
+    "First_Name" text COLLATE pg_catalog."default" NOT NULL,
+    "Last_Name" text COLLATE pg_catalog."default" NOT NULL,
+    "DOB" text COLLATE pg_catalog."default" NOT NULL,
+    "Country" text COLLATE pg_catalog."default" NOT NULL,
+    "Passport_ID" bigint NOT NULL,
+    CONSTRAINT "Person_pkey" PRIMARY KEY ("Person_ID")
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.person
+    OWNER to postgres;
+
+
+INSERT INTO public.person(
+	"Person_ID", "First_Name", "Last_Name", "DOB", "Country", "Passport_ID")
+	VALUES (51703124, 'Linh', 'Tran', '24-07-1999', 'VN', -1);

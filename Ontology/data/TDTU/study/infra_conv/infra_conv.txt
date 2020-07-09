@@ -1,0 +1,50 @@
+- trường hỗ trợ máy lạnh cho học viên không
++ có
+- thời gian mở máy lạnh
++ từ 9 giờ sáng đến hết 17 giờ 25
+-bạn thấy phòng thực hành trường mình như thế nào?
++mình thấy khá tốt.
+-phòng học trường bạn có máy lạnh không?
++phòng học trường mình có máy lạnh
+-phòng học trường bạn có trang bị máy chiếu không?
++phòng nào cũng có.
+-phòng học trường bạn có trang bị tv không?
++tùy phòng mới có tv.
+-một lớp học thường có bao nhiêu người?
++thường thì khoản 60 người
+-các phòng lab có máy lạnh không?
++có
+-một lớp học chứa khoảng bao nhiêu sinh viên?
++tầm 50 sinh viên
+- có nhà thi đấu tại trường đại học tôn đức thắng không?
++ nhà trường có nhà thi đấu 2 tầng nhé
+- sử dụng nhà thi đấu vì những mục đích nào?
++ tổ chức sự kiện, dạy học thể thao
+- trường có nhà thi đấu không
++ có nhà thi đấu đa năng
+- trường có sân bóng không
++ có, kế bên nhà thi đấu đa năng
+- sân bóng có cho thuê sân không
++ có, nếu bạn đăng ký
+-	trường đại học tôn đức thắng được đánh giá có trang thiết bị rất tốt, hãy kể tên các dịch vụ mà sinh viên được hưởng tại trường?
++ kí túc xá 5sao, hồ bơi tiêu chuẩn dài 25m, sân bóng đá chuẩn 3 sao của fifa, nhà thi đấu, phòng gym, phòng yoga...
+- trường đh tdtu có bao nhiêu sân tennis?
++ 2
+-	trường tdtu có mấy sân tennis?
++ có 1 sân
+-	trường tdtu có mấy hồ bơi?
++ 2 hồ bơi
+-	trường tdtu có sân tennis không?
++ có
+-	trường tdtu có mấy tòa nhà?
++ có 8 tòa
+-	những tòa nhà của tdtu là những tòa nhà nào?
++ a b c d e, nhà thi đấu, thư viện, ký túc xá
+-	hồ bơi tdt có cho sinh viên bơi ngoài giờ lên lớp không?
++	[unknown]
+- trường có hồ bơi không?
++ có
+-	trường đại học tôn đức thắng có hồ bơi không?
++ có
+-	trường đại học tôn đức thắng có sân banh không?
++ có

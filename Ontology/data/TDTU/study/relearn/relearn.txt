@@ -1,0 +1,32 @@
+-bạn học lại môn ai chưa?
++kì sau nha bạn!
+-học lại có phải đóng học phí hay không?
++có
+-khi nào thì học lại?
++trung bình môn dưới mức 5.0
+- trường hợp nào sinh viên phải học lại một môn học?
++ tổng kết môn không được 5.0 hoặc không được điểm m. sinh viên nghỉ học quá số buổi cho phép.
+- trường hợp nào cần học lại
++ điểm trung bình dưới 5.0hoặc bạn cần cải thiện điểm số
+- trường hợp nào cần cải thiện điểm
++ khi điểm thực tế không đúng với mục tiêu của bạn
+- một môn có bao nhiêu lần học lại
++ số lần học lại không giới hạn
+-sinh viên bị rớt môn thì điểm được cập nhật như thế nào sau khi học lại môn học đó?
++sinh viên sẽ được lấy điểm cao nhất trong số lần học lại môn học đó
+-sinh viên bị rớt môn học tự chọn thì sinh viên có cần phải bắt buộc học lại môn đó hay không?
++sinh viên có thể đăng ký học lại môn đó hoặc một môn học khác sao cho đảm bảo đủ tín chỉ theo lộ trình đào tạo
+- môn tự chọn có cần học lại khi thi không đạt hay không ?
++ không
+- sinh viên học lại có cần đóng học phí hay không?
++ có
+- sinh viên có phải đóng tiền phạt khi học lại hay không?
++ không
+- nếu rớt môn thì làm thế nào?
++ nếu là môn bắt buộc trong chương trình đào tạo bạn cần phải đăng kí học lại. nếu là môn tự chọn bạn có thể học lại hoặc đăng kí môn khác thay thế.
+-nếu rớt môn sinh viên phải xử lý như thế nào?
++ nếu môn học bắt buộc, sinh viên phải đăng ký học tại các kỳ tiếp theo, còn lại phải học lại hoặc có thể chọn các môn tự chọn khác thay thế
+-nếu rớt môn bắt buộc thì sao?
++bắt buộc học lại môn đó
+- nếu rớt môn quá nhiều lần thì có sao không?
++ không sao cả, chỉ cần có nhiều tiền học tiếp là được.

@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.Student_management";
+option java_outer_classname = "Student_management";
+option objc_class_prefix = "HLW";
+
+package Student_management;
+
+service Management {
+
+  rpc create (Request) returns (Response) {}
+  rpc delete (Request) returns (Response) {}
+  rpc update (Request) returns (Response) {}
+  rpc register (Request) returns (Response) {}
+  rpc list (Request) returns (Response) {}
+  rpc ls_all(Request) returns (Response) {}
+}
+
+
+message Request {
+  string req = 1;
+}
+
+message Response {
+  string res = 1;
+}
