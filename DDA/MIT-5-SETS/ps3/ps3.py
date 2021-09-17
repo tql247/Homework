@@ -85,7 +85,7 @@ def get_word_score(word, n):
             and n is the hand length when the word was played
 
 	Letters are scored as in Scrabble; A is worth 1, B is
-	worth 3, C is worth 3, D is worth 2, E is worth 1, and so on.
+	worth 3, C is worth 3, D is worth 2, e is worth 1, and so on.
 
     word: string
     n: int >= 0

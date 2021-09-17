@@ -4,7 +4,7 @@ def get_prob_lable(train, lable):
     '''
     :param train: array, data set for training
     :param lable: String
-    :return: int, frequence of lable in data
+    :return: int, frequence of label in data
     '''
     return sum([1 for data_i in train if data_i[-1] == lable])/train.__len__()
 
@@ -13,7 +13,7 @@ def get_prob_feature_depend_lable(train, lable):
     '''
     :param train: array, data set for training
     :param lable: String
-    :return: list(), frequence of each feature belong with lable
+    :return: list(), frequence of each feature belong with label
     '''
     ls_prob = [0]*(train[0].__len__() - 1)
     for data_i in train:
